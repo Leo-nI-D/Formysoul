@@ -3,7 +3,8 @@ h1{
     text-align: center;
 }
 *{
-    background-color: yellowgreen ;
+    background-color: darkslategrey;
+    color: dodgerblue;
 }
 table, th, td {
     border: 1px solid black;
